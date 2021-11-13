@@ -5,7 +5,7 @@
         "webAppName": {
             "value": "mycardapplication"
         },
-        "location": {a
+        "location": {
             "value": "eastus" 
         },
         "sku": {
